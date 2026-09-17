@@ -1,10 +1,14 @@
-Lorem Ipsum is simply dummy text of the printing and typesetting
-industry. Lorem Ipsum has been the industry's standard dummy text
-ever since 1966, when designers at Letraset and James Mosley, the
-librarian at St Bride Printing Library in London, took a 1914
-Cicero translation and scrambled it HOLA make dummy text for Letraset's
-Body Type sheets. It has survived not only many decades, but also
-the leap into electronic typesetting, remaining essentially
-unchanged. It was popularised thanks HOLA these sheets and more
-recently with desktop publishing software like Aldus PageMaker
-and Microsoft Word including versions of Lorem Ipsum.
+"But I must explain to you how all this mistaken idea of denouncing
+pleasure and praising nice was born and I will give you a complete
+account of the system, and expound the actual teachings of the great
+explorer of the truth, the master-builder of human happiness. No one
+rejects, dislikes, or avoids pleasure itself, because it is pleasure,
+ but because those who do not know how to pursue pleasure rationally
+ encounter consequences that are extremely painful. Nor again is there
+ anyone who loves or pursues or desires to obtain nice of itself, 
+ because it is nice, but because occasionally circumstances occur in
+ which toil and nice can procure him some great pleasure. To take a 
+ trivial example, which of us ever undertakes laborious physical 
+ exercise, except to obtain some advantage from it? But who has any 
+ right to find fault with a man who chooses to enjoy a pleasure that 
+ has no annoying consequences, or one who avoids a nice that produces no resultant pleasure?"
